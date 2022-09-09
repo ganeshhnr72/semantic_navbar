@@ -1,0 +1,142 @@
+.social_css {
+  display: flex;
+  padding: 50px;
+  align-items: center;
+  margin-left: 90px;
+}
+
+.twitter_css {
+  border: 2px solid black;
+  margin-left: 40px;
+  margin-top: 40px;
+  width: 300px;
+  height: 500px;
+}
+
+.twitter-icon_css {
+  font-size: 72px;
+  display: inline-flex;
+  padding: 30px 120px 1px;
+}
+.twitter_css h1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 40px;
+}
+.twitter_css div h4 {
+  padding: 20px;
+  text-align: center;
+}
+
+.twitter-button {
+  height: 50px;
+  width: 250px;
+  font-size: 21px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: aliceblue;
+  margin-left: 25px;
+  border-radius: 25px;
+  background-color: black;
+  border: 1px solid black;
+}
+
+.youtube_css {
+  background-color: #cd486b;
+  border: 2px solid #f14271;
+  margin-left: 40px;
+  margin-top: 40px;
+  width: 300px;
+  height: 500px;
+}
+.youtube-icon_css {
+  font-size: 72px;
+  display: inline-flex;
+  padding: 30px 120px 1px;
+  color: white;
+}
+.youtube_css h1 {
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 40px;
+}
+.youtube_css div h4 {
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.youtube-button {
+  height: 50px;
+  width: 250px;
+  font-size: 21px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #cd486b;
+  margin-left: 25px;
+  border-radius: 25px;
+  background-color: white;
+  border: 1px solid #cd486b;
+}
+
+/* ----------------------------navbar css starts here-------------------------------------------------- */
+
+.nav-section_css {
+  padding: auto;
+  display: flex;
+  margin-left: 35%;
+  margin-top: 100px;
+}
+
+.navbar_css {
+  display: flex;
+  height: 50px;
+  width: 400px;
+  background-color: rgb(63, 58, 59);
+}
+
+.navbar_css .ul_css {
+  list-style-type: none;
+  display: flex;
+}
+
+.navbar_css ul li {
+  text-align: center;
+  padding-right: 20px;
+  color: white;
+  font-size: 20px;
+  font-weight: 10px;
+}
+
+/* toppings on actual assignment */
+
+hr {
+  height: 2px;
+  background-color: #cd486b;
+}
+
+.page-nav-button button {
+  height: 50px;
+  width: 250px;
+  font-size: 21px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 25px;
+  border-radius: 25px;
+  background-color: white;
+  border: 1px solid #cd486b;
+}
+
+.page-nav-button button a {
+  text-decoration: none;
+  color: black;
+}
+
+.page-nav-button button:hover {
+  background-color: #ff0044;
+}
+
+/* <!-- author: Ganesh Maruti Naik --> */
